@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UTjZWBeJ8MHOm67KakJFXKT5QXONnWmTP0MpIbk1rO2ig134mady8Q3vncROFXYQzLU9lnJyO6TZwM+eaCSBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Олег\\source\\repos\\ArabicToRomanNumbers2\\ArabicToRomanNumbers2\\ArabicToRomanNumbers2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
